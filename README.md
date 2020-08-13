@@ -5,14 +5,17 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 [Introducción a GitHub](https://github.com/IEE2463/classroom/blob/master/Material%20de%20apoyo/GitHub/Introducción%20a%20GitHub.pdf) 
 
 ## Laboratorios
+
+Para crear los repositorios privados, deben acceder a los siguientes links. Mientras diga "En desarrollo" significa que no está disponible para la creación.
+
 | Laboratorio |                         Enlace                        | Titulo 			| Nivel |   Fecha     |
 |:-----------:|:-----------------------------------------------------:|:--------------:	| :---: |:-----------:|
-|      1      | [En desarrollo!](https://www.youtube.com/watch?v=VBlFHuCzPgY) | Introducción a C  	| 	1	| 31 - agosto  |
-| 	   2 	  | [En desarrollo!](https://www.youtube.com/watch?v=Twi92KYddW4) | GPIOs |	2	| 14 - septiembre |
-| 	   3 	  | [En desarrollo!](https://www.youtube.com/watch?v=rXRSdiLEdwM) | Timers e Interrupciones       |	2	| 05 - octubre |
+|      1      | [Haz Click!](https://classroom.github.com/a/XHhyW-R_) | Introducción a C  	| 	1	| 31 - agosto  |
+| 	   2 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | GPIOs |	2	| 14 - septiembre |
+| 	   3 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | Timers e Interrupciones       |	2	| 05 - octubre |
 | 	   4 	  | [En desarrollo!](https://www.youtube.com/watch?v=gsNaR6FRuO0) | ADC - UART		|	3	| 19 - octubre  |
-| 	   5 	  | [En desarrollo!](https://www.youtube.com/watch?v=qLeEh-wIOAY) | I2C	|	3	| 2 - noviembre  |
-| 	   6 	  | [En desarrollo!](https://www.youtube.com/watch?v=5yx6BWlEVcY) | SPI			|	4	| 16 - noviembre  |
+| 	   5 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | I2C	|	3	| 2 - noviembre  |
+| 	   6 	  | [En desarrollo!](https://www.youtube.com/watch?v=rXRSdiLEdwM) | SPI			|	4	| 16 - noviembre  |
 |  Avance Proyecto	  |[En desarrollo!](https://www.youtube.com/watch?v=a3lcGnMhvsA)|  Proyecto		|	4	| 30 - noviembre  |
 
 
@@ -38,13 +41,32 @@ Las experiencias estarán divididas en niveles, acorde a la dificultad de las ta
 
 ### Escala de evaluación
 
-Variable laboratorio a laboratorio, la rúbrica será publicada.
+Total de 6 laboratorios.
+
++ La nota de cada laboratorio está en escala de 1.00 a 7.00
+...40 % será una sesión online de preguntas y respuestas. 
++ Nota discreta, pudiendo ser 1.0, 3.0, 4.0, 5.5 o 7.0
+...60 % será entrega de laboratorio funcional.
+
+
++ Nota en base a una rúbrica.
+..No obstante lo anterior, la nota final de cada laboratorio estará condicionada a la nota obtenida en preguntas:
+
+| Nota Preguntas | Nota Maxima Laboratorio | 
+|:-:			|:-:	|
+| 5.5 o 7.0 | 7 | 
+| 4.0 | 5.50 | 
+| 3.0 | 4.00 |
+| 1.0 | 3.00 |
+
 
 ### Criterio de aprobación
 
+Todas las notas se calculan con 2 decimales aproximados.
+
 - Como máximo se puede tener 2 laboratorios con nota inferior a 4.00.
 
-- Nota de laboratorio igual o superior a 4.50. Calculado con dos decimales.
+- Promedio de laboratorio igual o superior a 4.50. Calculado con dos decimales.
 
 ## Semestres Anteriores
 
