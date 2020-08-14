@@ -2,6 +2,8 @@
 
 En este repositorio encontrarás recursos importantes sobre Sistemas Electrónicos Programables como laboratorios y pautas. 
 
+El siguiente link, es una introducción al uso de GitHub y a la creación de los repositorios privados.
+
 [Introducción a GitHub](https://github.com/IEE2463/classroom/blob/master/Material%20de%20apoyo/GitHub/Introducción%20a%20GitHub.pdf) 
 
 ## Laboratorios
