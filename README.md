@@ -19,6 +19,35 @@ Para crear los repositorios privados, deben acceder a los siguientes links. Mien
 |  Avance Proyecto	  |[En desarrollo!](https://www.youtube.com/watch?v=a3lcGnMhvsA)|  Proyecto		|	4	| 30 - noviembre  |
 
 
+## Equipo
+
+### Profesor
+| Nombre |	Correo 	| Usuario |
+|:------:|:--------:|:-------:|
+| Felipe Sanchez | fssanchez@uc.cl | @felipesanchezvaras |
+
+### Ayudante Coordinadora
+
+| Nombre |	Correo 	| Usuario |
+|:------:|:--------:|:-------:|
+| Camila Turrieta | cfturrieta@uc.cl | @CamilaTurrieta |
+
+### Ayudantes Docentes
+
+| Nombre |	Correo 	| Usuario |
+|:------:|:--------:|:-------:|
+| Francisco Fonseca | fffonseca@uc.cl | @fffonceca |
+| José Gutierrez | jagutierrez3@uc.cl | @GutiJos | 
+
+### Ayudantes Laboratorio
+
+| Nombre |	Correo 	| Usuario |
+|:------:|:--------:|:-------:|
+| Agustín Macaya | fffonseca@uc.cl | @aamacaya |
+| Rafael Ormazabal | aamacaya@uc.cl  | @RafaelOrmazabal | 
+| Javier Silva | jagutierrez3@uc.cl | @Slothzilla328P | 
+
+
 ## Foro
 
 Todas las preguntas se realizarán en las [issues](../../issues). Preguntas que podrían estar en las Issues, pero que fueron enviadas por correo, **NO** serán respondidas. Aquellos casos particulares que involucren material o justificar algún problema personal deben escribir un correo con copia a:
@@ -26,7 +55,6 @@ Todas las preguntas se realizarán en las [issues](../../issues). Preguntas que 
 - Camila Turrieta (cfturrieta@uc.cl)
 - José Gutierrez (jagutierrez3@uc.cl)
 - Francisco Fonseca (fffonseca@uc.cl)
-
 
 ## Sistema de calificación de laboratorios
 
