@@ -26,28 +26,28 @@ Para crear los repositorios privados, deben acceder a los siguientes links. Mien
 ### Profesor
 | Nombre |	Correo 	| Usuario |
 |:------:|:--------:|:-------:|
-| Felipe Sanchez | fssanchez@uc.cl | @felipesanchezvaras |
+| Felipe Sanchez | fssanchez@uc.cl | [@felipesanchezvaras](https://github.com/felipesanchezvaras) |
 
 ### Ayudante Coordinadora
 
 | Nombre |	Correo 	| Usuario |
 |:------:|:--------:|:-------:|
-| Camila Turrieta | cfturrieta@uc.cl | @CamilaTurrieta |
+| Camila Turrieta | cfturrieta@uc.cl | [@CamilaTurrieta](https://github.com/CamilaTurrieta)|
 
 ### Ayudantes Docentes
 
 | Nombre |	Correo 	| Usuario |
 |:------:|:--------:|:-------:|
-| Francisco Fonseca | fffonseca@uc.cl | @fffonceca |
-| José Gutierrez | jagutierrez3@uc.cl | @GutiJos | 
+| Francisco Fonseca | fffonseca@uc.cl | [@fffonceca](https://github.com/fffonceca) |
+| José Gutierrez | jagutierrez3@uc.cl | [@GutiJos](https://github.com/GutiJos) | 
 
 ### Ayudantes Laboratorio
 
 | Nombre |	Correo 	| Usuario |
 |:------:|:--------:|:-------:|
-| Agustín Macaya | fffonseca@uc.cl | @aamacaya |
-| Rafael Ormazabal | aamacaya@uc.cl  | @RafaelOrmazabal | 
-| Javier Silva | jagutierrez3@uc.cl | @Slothzilla328P | 
+| Agustín Macaya | fffonseca@uc.cl | [@aamacaya](https://github.com/aamacaya) |
+| Rafael Ormazabal | aamacaya@uc.cl  | [@RafaelOrmazabal](https://github.com/RafaelOrmazabal) | 
+| Javier Silva | jagutierrez3@uc.cl | [@Slothzilla328P](https://github.com/Slothzilla328P) | 
 
 
 ## Foro
