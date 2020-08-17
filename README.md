@@ -45,9 +45,9 @@ Para crear los repositorios privados, deben acceder a los siguientes links. Mien
 
 | Nombre |	Correo 	| Usuario |
 |:------:|:--------:|:-------:|
-| Agustín Macaya | fffonseca@uc.cl | [@aamacaya](https://github.com/aamacaya) |
-| Rafael Ormazabal | aamacaya@uc.cl  | [@RafaelOrmazabal](https://github.com/RafaelOrmazabal) | 
-| Javier Silva | jagutierrez3@uc.cl | [@Slothzilla328P](https://github.com/Slothzilla328P) | 
+| Agustín Macaya | aamacaya@uc.cl | [@aamacaya](https://github.com/aamacaya) |
+| Rafael Ormazabal |  riormazabal@uc.cl  | [@RafaelOrmazabal](https://github.com/RafaelOrmazabal) | 
+| Javier Silva | jisilva8@uc.cl | [@Slothzilla328P](https://github.com/Slothzilla328P) | 
 
 
 ## Foro
