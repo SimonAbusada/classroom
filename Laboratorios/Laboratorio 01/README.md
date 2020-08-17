@@ -1,6 +1,6 @@
 # Juego a realizar
 
-![TicTacToe](tictactoe.png=250x)
+![TicTacToe](tictactoe.png =250x)
 
 ## Ejemplo de output
 
