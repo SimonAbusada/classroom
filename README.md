@@ -9,16 +9,18 @@ El siguiente link, es una introducción al uso de GitHub y a la creación de los
 ## Laboratorios
 
 Para crear los repositorios privados, deben acceder a los siguientes links. Mientras diga "En desarrollo" significa que no está disponible para la creación.
+La planificación es tentativa. Será oficial una vez sea publicado el enunciado respectivo.
 
 | Laboratorio |                         Enlace                        | Titulo 			| Nivel |   Fecha     |
 |:-----------:|:-----------------------------------------------------:|:--------------:	| :---: |:-----------:|
 |      1      | [Haz Click!](https://classroom.github.com/a/XHhyW-R_) | Introducción a C  	| 	1	| 31 - agosto  |
-| 	   2 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | GPIOs |	2	| 14 - septiembre |
-| 	   3 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | Timers e Interrupciones       |	2	| 05 - octubre |
-| 	   4 	  | [En desarrollo!](https://www.youtube.com/watch?v=gsNaR6FRuO0) | ADC - UART		|	3	| 19 - octubre  |
-| 	   5 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | I2C	|	3	| 2 - noviembre  |
-| 	   6 	  | [En desarrollo!](https://www.youtube.com/watch?v=rXRSdiLEdwM) | SPI			|	4	| 16 - noviembre  |
-|  Avance Proyecto	  |[En desarrollo!](https://www.youtube.com/watch?v=a3lcGnMhvsA)|  Proyecto		|	4	| 30 - noviembre  |
+| 	   2.A 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | GPIOs |	2	| 17 - septiembre |
+| 	   2.B	  | [En desarrollo!](https://github.com/IEE2463/classroom) | GPIOs |	2	| 05 - octubre    |
+| 	   3 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | Timers e Interrupciones       |	2	| por definir |
+| 	   4 	  | [En desarrollo!](https://www.youtube.com/watch?v=gsNaR6FRuO0) | ADC - UART		|	3	| por definir  |
+| 	   5 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | I2C	|	3	| por definir  |
+| 	   6 	  | [En desarrollo!](https://www.youtube.com/watch?v=rXRSdiLEdwM) | SPI			|	4	| por definir  |
+|  Avance Proyecto	  |[En desarrollo!](https://www.youtube.com/watch?v=a3lcGnMhvsA)|  Proyecto		|	-	| por definir  |
 
 
 ## Equipo
