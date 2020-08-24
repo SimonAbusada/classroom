@@ -14,6 +14,12 @@ Esta sección se irá actualizando semana a semana los fines de semana.
 |:-:|:-:|:-:|:-:|
 |Actividad | Cátedra  | Laboratorio y sesión de consultas | Cátedra | 
 
+# Planficación tentativa semana siguiente
+
+|| Lunes 31 agosto | Miércoles 2 septiembre | Viernes 4 septiembre |
+|:-:|:-:|:-:|:-:|
+|Actividad | Revisión LAB 01  | Cátedra | Cátedra | 
+
 
 ## Laboratorios
 
