@@ -6,6 +6,15 @@ El siguiente link, es una introducción al uso de GitHub y a la creación de los
 
 [Introducción a GitHub](https://github.com/IEE2463/classroom/blob/master/Material%20de%20apoyo/GitHub/Introducción%20a%20GitHub.pdf) 
 
+## Planificación Semanal
+
+Esta sección se irá actualizando semana a semana los fines de semana.
+
+|| Lunes 24 agosto | Miércoles 26 agosto | Viernes 28 agosto |
+|:-:|:-:|:-:|:-:|
+|Actividad | Cátedra  | Laboratorio y sesión de consultas | Cátedra | 
+
+
 ## Laboratorios
 
 Para crear los repositorios privados, deben acceder a los siguientes links. Mientras diga "En desarrollo" significa que no está disponible para la creación.
