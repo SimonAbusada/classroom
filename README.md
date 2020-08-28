@@ -18,7 +18,7 @@ Esta sección se irá actualizando semana a semana los fines de semana.
 
 || Lunes 31 agosto | Miércoles 2 septiembre | Viernes 4 septiembre |
 |:-:|:-:|:-:|:-:|
-|Actividad | Revisión LAB 01  | Cátedra | Cátedra | 
+|Actividad | Cátedra  | Revisión LAB 01 | Cátedra | 
 
 
 ## Laboratorios
