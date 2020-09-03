@@ -10,15 +10,15 @@ El siguiente link, es una introducción al uso de GitHub y a la creación de los
 
 Esta sección se irá actualizando semana a semana los fines de semana.
 
-|| Lunes 24 agosto | Miércoles 26 agosto | Viernes 28 agosto |
-|:-:|:-:|:-:|:-:|
-|Actividad | Cátedra  | Laboratorio y sesión de consultas | Cátedra | 
-
-# Planficación tentativa semana siguiente
-
 || Lunes 31 agosto | Miércoles 2 septiembre | Viernes 4 septiembre |
 |:-:|:-:|:-:|:-:|
 |Actividad | Cátedra  | Revisión LAB 01 | Cátedra | 
+
+# Planficación tentativa semana siguiente
+
+|| Lunes 7 de septiembre | Miércoles 9 septiembre | Viernes 11 septiembre |
+|:-:|:-:|:-:|:-:|
+|Actividad | Clase Laboratorio | Cátedra | Cátedra | 
 
 
 ## Laboratorios
@@ -29,7 +29,7 @@ La planificación es tentativa. Será oficial una vez sea publicado el enunciado
 | Laboratorio |                         Enlace                        | Titulo 			| Nivel |   Fecha     |
 |:-----------:|:-----------------------------------------------------:|:--------------:	| :---: |:-----------:|
 |      1      | [Haz Click!](https://classroom.github.com/a/XHhyW-R_) | Introducción a C  	| 	1	| 31 - agosto  |
-| 	   2.A 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | GPIOs |	2	| 17 - septiembre |
+| 	   2.A 	  | [Haz Clink!](https://classroom.github.com/a/HtfH4JBC) | GPIOs |	2	| 17 - septiembre |
 | 	   2.B	  | [En desarrollo!](https://github.com/IEE2463/classroom) | GPIOs |	2	| 05 - octubre    |
 | 	   3 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | Timers e Interrupciones       |	2	| por definir |
 | 	   4 	  | [En desarrollo!](https://www.youtube.com/watch?v=gsNaR6FRuO0) | ADC - UART		|	3	| por definir  |
