@@ -14,7 +14,7 @@ Esta sección se irá actualizando semana a semana los fines de semana.
 |:-:|:-:|:-:|:-:|
 |Actividad | Cátedra  | Revisión LAB 01 | Cátedra | 
 
-# Planficación tentativa semana siguiente
+### Planficación tentativa semana siguiente
 
 || Lunes 7 de septiembre | Miércoles 9 septiembre | Viernes 11 septiembre |
 |:-:|:-:|:-:|:-:|
