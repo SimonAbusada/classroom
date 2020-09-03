@@ -23,9 +23,9 @@ StopWDT     mov.w   #WDTPW|WDTHOLD,&WDTCTL  ; Stop watchdog timer
 ;-------------------------------------------------------------------------------
 ; Main loop here
 ;-------------------------------------------------------------------------------
-			bis.b 	#0FFh, 	P1DIR		; set port 1 as output
+			bis.b 	#01h, 	P1DIR		; set port 1.0 as output
 LOOP
-			xor.b 	#0FFh, 	P1OUT		; Check is pressed
+			xor.b 	#01h, 	P1OUT		; XOR port 1.0
 			mov 	#0FFFFh, R4			; Delay counter
 DELAYLOOP
 			sub		#1h,	 R4			; substract 1 from R4
