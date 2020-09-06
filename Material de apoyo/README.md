@@ -23,5 +23,5 @@ Para programarla pueden utilizar Code Composer Studio
 
 - [Link del fabricante](https://www.ti.com/tool/BOOSTXL-EDUMKII)
 - [User Guide](https://www.ti.com/lit/ug/slau599a/slau599a.pdf?ts=1596747017489&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FBOOSTXL-EDUMKII)
-- [Quick Start](https://www.ti.com/lit/ml/slau600/slau600.pdf?ts=1596747017315&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FBOOSTXL-EDUMKII)
+- [Quick Start](https://www.ti.com/lit/ug/slau600/slau600.pdf?ts=1599365888583&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FBOOSTXL-EDUMKII)
 
