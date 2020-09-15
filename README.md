@@ -10,15 +10,20 @@ El siguiente link, es una introducción al uso de GitHub y a la creación de los
 
 Esta sección se irá actualizando semana a semana los fines de semana.
 
-|| Lunes 31 agosto | Miércoles 2 septiembre | Viernes 4 septiembre |
+|| Lunes 14 septiembre | Miércoles 16 septiembre | Viernes 18 septiembre |
 |:-:|:-:|:-:|:-:|
-|Actividad | Cátedra  | Revisión LAB 01 | Cátedra | 
+|Actividad | Cátedra  | Cátedra | Feriado | 
+
+## Siguiente semana
+
+Se recuerda que la semana del 21 al 25 de sept es la semana de receso, no habrán ayudantías, sesiones de consulta ni evaluaciones. GitHub seguirá activo pero no se asegura que preguntas que puedan llegar durante esta semana sean respondidas. Se retoman actividades durante la semana del 28 de sept.
+
 
 ### Planficación tentativa semana siguiente
 
-|| Lunes 7 de septiembre | Miércoles 9 septiembre | Viernes 11 septiembre |
+|| Lunes 28 de septiembre | Miércoles 30 septiembre | Viernes 1 octubre |
 |:-:|:-:|:-:|:-:|
-|Actividad | Clase Laboratorio | Cátedra | Cátedra | 
+|Actividad | Cátedra | Ayudantía / Sesión Consultas | Cátedra | 
 
 
 ## Laboratorios
