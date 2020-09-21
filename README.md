@@ -6,15 +6,8 @@ El siguiente link, es una introducción al uso de GitHub y a la creación de los
 
 [Introducción a GitHub](https://github.com/IEE2463/classroom/blob/master/Material%20de%20apoyo/GitHub/Introducción%20a%20GitHub.pdf) 
 
+
 ## Planificación Semanal
-
-Esta sección se irá actualizando semana a semana los fines de semana.
-
-|| Lunes 14 septiembre | Miércoles 16 septiembre | Viernes 18 septiembre |
-|:-:|:-:|:-:|:-:|
-|Actividad | Cátedra  | Cátedra | Feriado | 
-
-## Siguiente semana
 
 Se recuerda que la semana del 21 al 25 de sept es la semana de receso, no habrán ayudantías, sesiones de consulta ni evaluaciones. GitHub seguirá activo pero no se asegura que preguntas que puedan llegar durante esta semana sean respondidas. Se retoman actividades durante la semana del 28 de sept.
 
