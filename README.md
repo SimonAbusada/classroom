@@ -28,7 +28,7 @@ La planificación es tentativa. Será oficial una vez sea publicado el enunciado
 |:-----------:|:-----------------------------------------------------:|:--------------:	| :---: |:-----------:|
 |      1      | [Haz Click!](https://classroom.github.com/a/XHhyW-R_) | Introducción a C  	| 	1	| 31 - agosto  |
 | 	   2.A 	  | [Haz Clink!](https://classroom.github.com/a/HtfH4JBC) | GPIOs |	2	| 16 - septiembre |
-| 	   2.B	  | [En desarrollo!](https://github.com/IEE2463/classroom) | GPIOs |	2	| 05 - octubre    |
+| 	   2.B	  | Mismo repositorio de 2.A | GPIOs |	2	| 05 - octubre    |
 | 	   3 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | Timers e Interrupciones       |	2	| por definir |
 | 	   4 	  | [En desarrollo!](https://www.youtube.com/watch?v=gsNaR6FRuO0) | ADC - UART		|	3	| por definir  |
 | 	   5 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | I2C	|	3	| por definir  |
