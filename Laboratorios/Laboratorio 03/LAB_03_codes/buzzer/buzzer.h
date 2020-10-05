@@ -4,6 +4,20 @@
 /******************************************************************************************************
  ***************************            Buzzer library       ******************************************
  ******************************************************************************************************/
+/* FOR STUDENTS:
+ * 
+ * This file will be given to you in an 'empty' state. The function bodies are
+ * provided, but not their content. You are supposed to add the proper setup
+ * code and complete these functions.
+ *
+ * Functions Beep, noBeep y Frequencies of Musical Notes: source 
+ * https://create.arduino.cc/projecthub/isaacnolt331/megalovania-on-piezo-fc263a
+ * 
+ * This code its an adaption from public domain code. Created for educational purpose.
+ *
+ *
+ */
+
 
 /*
  *  Standard Library
@@ -16,7 +30,7 @@
 /*
  * Musical Note
  * Frequencies of Musical Notes
- * Extended
+
  *
  */
 #define N_B0  31

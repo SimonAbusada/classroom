@@ -5,6 +5,10 @@
 
 /*
  * My songs
+ * Reference:
+ * Imperial March: https://gist.github.com/tagliati/1804108
+ * Megalovania: https://create.arduino.cc/projecthub/isaacnolt331/megalovania-on-piezo-fc263a
+ * Eight Days a Week: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0134050
  *
  */
 void ImperialMarch(void);
@@ -20,9 +24,8 @@ void main(void)
 {
     WDTCTL = WDTPW | WDTHOLD;   // stop watchdog timer
 
-
-    timer_A0_config();
-    timer_B0_config();
+    // Modificar acorde al nombre creado en buzzer.h
+    timer_XX_config();
 
     config_speaker_gpio();
     speaker_low();
