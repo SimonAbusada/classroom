@@ -9,14 +9,16 @@ El siguiente link, es una introducción al uso de GitHub y a la creación de los
 
 ## Planificación Semanal
 
-Se recuerda que la semana del 21 al 25 de sept es la semana de receso, no habrán ayudantías, sesiones de consulta ni evaluaciones. GitHub seguirá activo pero no se asegura que preguntas que puedan llegar durante esta semana sean respondidas. Se retoman actividades durante la semana del 28 de sept.
+|| Lunes 05 de octubre | Miércoles 07 octubre | Viernes 09 octubre |
+|:-:|:-:|:-:|:-:|
+|Actividad | Evaluacion LAB 02 | Cátedra | Ayudantía | 
 
 
 ### Planficación tentativa semana siguiente
 
-|| Lunes 28 de septiembre | Miércoles 30 septiembre | Viernes 1 octubre |
+|| Lunes 12 de octubre | Miércoles 14 octubre | Viernes 16 octubre |
 |:-:|:-:|:-:|:-:|
-|Actividad | Cátedra | Ayudantía / Sesión Consultas | Cátedra | 
+|Actividad | Feriado | Cátedra | Sesión Consultas | 
 
 
 ## Laboratorios
