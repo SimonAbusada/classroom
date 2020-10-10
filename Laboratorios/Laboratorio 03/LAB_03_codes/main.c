@@ -46,7 +46,7 @@ void main(void)
 }
 
 
-void eight_days_a_week(void) {
+void Eight_days_a_week(void) {
   int melody[] = {N_E5, N_D5, N_C5, N_D5, N_D5, N_A4, N_A4, N_C5, N_F5, N_F5,
                   N_E5, N_E5, N_D5, N_C5, N_D5, N_D5, N_A4, N_A4, N_C5, N_F5,
                   N_F5, N_E5,

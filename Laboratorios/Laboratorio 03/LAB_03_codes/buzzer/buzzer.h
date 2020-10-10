@@ -167,8 +167,6 @@ void speaker_high(void);
 void speaker_low(void);
 
 
-/* XX, Puede ser A0, A1, B0...
-
 /*
  * Configura el Timer XX, Puede ser A0, A1, B0...
  * 
