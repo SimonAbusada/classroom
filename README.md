@@ -32,7 +32,7 @@ La planificación es tentativa. Será oficial una vez sea publicado el enunciado
 | 	   2.A 	  | [Haz Click!](https://classroom.github.com/a/HtfH4JBC) | GPIOs |	2	| 16 - septiembre |
 | 	   2.B	  | Mismo repositorio de 2.A | GPIOs |	2	| 05 - octubre    |
 | 	   3 	  | [Haz Click!](https://classroom.github.com/a/ZA6xohvJ) | Timers e Interrupciones       |	2	| 21 - octubre |
-| 	   4 	  | [En desarrollo!](https://www.youtube.com/watch?v=gsNaR6FRuO0) | ADC - UART		|	3	| 04 noviembre  |
+| 	   4 	  | [Haz Click!](https://classroom.github.com/a/4NoW7ZmD) | ADC - UART		|	3	| 04 noviembre  |
 | 	   5 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | I2C	|	3	| por definir  |
 | 	   6 	  | [En desarrollo!](https://www.youtube.com/watch?v=rXRSdiLEdwM) | SPI			|	4	| por definir  |
 |  Avance Proyecto	  |[En desarrollo!](https://www.youtube.com/watch?v=a3lcGnMhvsA)|  Proyecto		|	-	| por definir  |
