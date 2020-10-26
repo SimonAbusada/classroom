@@ -9,16 +9,16 @@ El siguiente link, es una introducción al uso de GitHub y a la creación de los
 
 ## Planificación Semanal
 
-|| Lunes 05 de octubre | Miércoles 07 octubre | Viernes 09 octubre |
+|| Lunes 26 de octubre | Miércoles 28 octubre | Viernes 30 octubre |
 |:-:|:-:|:-:|:-:|
-|Actividad | Evaluacion LAB 02 | Cátedra | Ayudantía | 
+|Actividad | Cátedra | Ayudantía | Cátedra | 
 
 
 ### Planficación tentativa semana siguiente
 
-|| Lunes 12 de octubre | Miércoles 14 octubre | Viernes 16 octubre |
+|| Lunes 2 de noviembre | Miércoles 4 noviembre | Viernes 6 noviembre |
 |:-:|:-:|:-:|:-:|
-|Actividad | Feriado | Cátedra | Sesión Consultas | 
+|Actividad | Sesión Consultas | Revisión LAB 04 | Cátedra | 
 
 
 ## Laboratorios
